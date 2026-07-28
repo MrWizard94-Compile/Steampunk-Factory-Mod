@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="steampunk_factory"
+version="1.0.0"
+displayName="Steampunk Factory"
+authors="Rob Bulkley"
+description='''
+Industrial steampunk factory and airship building blocks for Minecraft 1.20.1.
+'''
+
+[[dependencies.steampunk_factory]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.steampunk_factory]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

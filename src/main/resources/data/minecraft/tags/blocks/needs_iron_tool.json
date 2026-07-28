@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "steampunk_factory:heavy_gearbox_housing",
+    "steampunk_factory:rusty_heavy_gearbox_housing",
+    "steampunk_factory:heavy_machinery_block",
+    "steampunk_factory:boiler_block",
+    "steampunk_factory:rusty_boiler_block",
+    "steampunk_factory:mechanical_press",
+    "steampunk_factory:propeller_assembly",
+    "steampunk_factory:airship_steam_engine_side",
+    "steampunk_factory:magitech_runic_block"
+  ]
+}

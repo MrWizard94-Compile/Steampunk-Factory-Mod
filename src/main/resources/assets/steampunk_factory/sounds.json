@@ -1,0 +1,26 @@
+{
+  "steam_hiss": {
+    "sounds": [
+      {
+        "name": "block.lava.ambient",
+        "weight": 1
+      }
+    ]
+  },
+  "metal_clank": {
+    "sounds": [
+      {
+        "name": "block.anvil.land",
+        "weight": 1
+      }
+    ]
+  },
+  "wood_creak": {
+    "sounds": [
+      {
+        "name": "block.wood.place",
+        "weight": 1
+      }
+    ]
+  }
+}

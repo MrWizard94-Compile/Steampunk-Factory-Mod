@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "steampunk_factory:block/rusty_factory_wall"
+  }
+}

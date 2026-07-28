@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "GCG",
+    "IGI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:gold_nugget" },
+    "C": { "item": "minecraft:comparator" }
+  },
+  "result": {
+    "item": "steampunk_factory:brass_control_panel",
+    "count": 1
+  }
+}

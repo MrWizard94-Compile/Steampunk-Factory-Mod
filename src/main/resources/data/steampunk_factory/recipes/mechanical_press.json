@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "GPG",
+    "IGI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:gold_nugget" },
+    "P": { "item": "minecraft:piston" }
+  },
+  "result": {
+    "item": "steampunk_factory:mechanical_press",
+    "count": 1
+  }
+}

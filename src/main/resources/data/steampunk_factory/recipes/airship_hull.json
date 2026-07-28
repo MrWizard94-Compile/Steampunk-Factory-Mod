@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WPW",
+    "WIW",
+    "WPW"
+  ],
+  "key": {
+    "W": { "item": "minecraft:oak_planks" },
+    "P": { "item": "minecraft:iron_ingot" },
+    "I": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "item": "steampunk_factory:airship_hull",
+    "count": 4
+  }
+}

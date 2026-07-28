@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "steampunk_factory:airship_hull",
+    "steampunk_factory:airship_deck",
+    "steampunk_factory:gondola_floor",
+    "steampunk_factory:gondola_wall",
+    "steampunk_factory:airship_interior_wood",
+    "steampunk_factory:airship_cargo_crate",
+    "steampunk_factory:gondola_door",
+    "steampunk_factory:gondola_roof"
+  ]
+}

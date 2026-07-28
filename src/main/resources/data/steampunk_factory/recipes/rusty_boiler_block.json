@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IBI",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "B": { "item": "steampunk_factory:boiler_block" }
+  },
+  "result": {
+    "item": "steampunk_factory:rusty_boiler_block",
+    "count": 1
+  }
+}

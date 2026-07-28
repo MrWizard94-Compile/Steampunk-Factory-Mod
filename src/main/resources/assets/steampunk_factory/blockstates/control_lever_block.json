@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "steampunk_factory:block/control_lever_block" }
+  }
+}

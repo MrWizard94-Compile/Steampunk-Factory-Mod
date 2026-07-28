@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WPW",
+    "WPW"
+  ],
+  "key": {
+    "W": { "item": "minecraft:oak_planks" },
+    "P": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "item": "steampunk_factory:airship_deck",
+    "count": 4
+  }
+}

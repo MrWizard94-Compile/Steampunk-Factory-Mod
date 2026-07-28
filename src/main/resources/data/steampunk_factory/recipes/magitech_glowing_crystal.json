@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DRD",
+    " D "
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": {
+    "item": "steampunk_factory:magitech_glowing_crystal",
+    "count": 2
+  }
+}

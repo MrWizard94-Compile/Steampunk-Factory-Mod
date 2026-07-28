@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "steampunk_factory:block/heavy_machinery_block" }
+  }
+}
